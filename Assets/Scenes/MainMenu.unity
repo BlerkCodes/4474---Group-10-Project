@@ -436,6 +436,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1184347200}
+  - component: {fileID: 1184347204}
   - component: {fileID: 1184347203}
   - component: {fileID: 1184347202}
   - component: {fileID: 1184347201}
@@ -544,6 +545,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1184347199}
   m_CullTransparentMesh: 1
+--- !u!114 &1184347204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1184347199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5279268ea7217b47877bf7756196e2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IconHover
+  setSize: 1.4
 --- !u!1 &1292699802
 GameObject:
   m_ObjectHideFlags: 0
@@ -771,6 +785,7 @@ GameObject:
   - component: {fileID: 1669017008}
   - component: {fileID: 1669017011}
   - component: {fileID: 1669017010}
+  - component: {fileID: 1669017012}
   - component: {fileID: 1669017009}
   m_Layer: 5
   m_Name: Play
@@ -877,6 +892,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1669017007}
   m_CullTransparentMesh: 1
+--- !u!114 &1669017012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1669017007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5279268ea7217b47877bf7756196e2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IconHover
+  setSize: 1.4
 --- !u!1 &1900598431
 GameObject:
   m_ObjectHideFlags: 0
@@ -978,6 +1006,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2069299514}
+  - component: {fileID: 2069299518}
   - component: {fileID: 2069299517}
   - component: {fileID: 2069299516}
   - component: {fileID: 2069299515}
@@ -1086,6 +1115,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2069299513}
   m_CullTransparentMesh: 1
+--- !u!114 &2069299518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069299513}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5279268ea7217b47877bf7756196e2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IconHover
+  setSize: 1.4
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
